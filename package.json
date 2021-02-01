@@ -35,7 +35,7 @@
     "codelyzer": "5.2.2",
     "glob": "7.1.6",
     "gulp": "4.0.2",
-    "gulp-markdown": "5.0.1",
+    "gulp-markdown": "5.1.0",
     "jasmine-core": "3.5.0",
     "jasmine-spec-reporter": "4.2.1",
     "karma": "4.4.1",
