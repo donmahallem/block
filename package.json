@@ -36,7 +36,7 @@
     "glob": "7.1.7",
     "gulp": "4.0.2",
     "gulp-markdown": "6.0.0",
-    "jasmine-core": "3.7.1",
+    "jasmine-core": "3.8.0",
     "jasmine-spec-reporter": "7.0.0",
     "karma": "6.3.4",
     "karma-chrome-launcher": "3.1.0",
