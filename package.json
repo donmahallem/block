@@ -33,7 +33,7 @@
     "@types/jasminewd2": "2.0.11",
     "@types/node": "18.18.0",
     "codelyzer": "6.0.2",
-    "glob": "10.3.7",
+    "glob": "10.3.10",
     "gulp": "4.0.2",
     "gulp-markdown": "7.0.0",
     "jasmine-core": "5.1.1",
