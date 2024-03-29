@@ -34,7 +34,7 @@
     "@types/node": "20.11.30",
     "codelyzer": "6.0.2",
     "glob": "10.3.12",
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-markdown": "8.0.0",
     "jasmine-core": "5.1.2",
     "jasmine-spec-reporter": "7.0.0",
