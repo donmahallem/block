@@ -31,7 +31,7 @@
     "@angular/language-service": "20.0.5",
     "@types/jasmine": "5.1.8",
     "@types/jasminewd2": "2.0.13",
-    "@types/node": "22.15.34",
+    "@types/node": "22.15.35",
     "codelyzer": "6.0.2",
     "glob": "11.0.3",
     "gulp": "5.0.1",
